@@ -42,7 +42,7 @@ public class FrameCreater extends Canvas implements Runnable, KeyListener,
 
 		String mdir = this.getClass().getResource("/desert.png").toString();
 
-		/*
+		/* some mod
 		 * String imageName =
 		 * "C:/Documents and Settings/Administrator/My Documents/ser___/New Folder/Flappy/Downloads/desert.png"
 		 * ; imageName =
